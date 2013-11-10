@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urls>
+	<url>http://api.flickr.com/services/rest/?method=flickr.photos.search&amp;tags=london&amp;api_key=36a5d0009ad4d2fecd4d72b44c28674a</url>
+	<url>http://api.flickr.com/services/rest/?method=flickr.photos.search&amp;tags=paris&amp;api_key=36a5d0009ad4d2fecd4d72b44c28674a</url>
+	<url>http://api.flickr.com/services/rest/?method=flickr.photos.search&amp;tags=new%20york&amp;api_key=36a5d0009ad4d2fecd4d72b44c28674a</url>
+</urls>
